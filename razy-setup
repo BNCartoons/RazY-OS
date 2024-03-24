@@ -1,0 +1,7 @@
+#!/data/data/com.termux/files/usr/bin/bash -e
+clear
+echo -e "\e[34m\e[1m RazY Setup Started"
+apt-get update -y
+apt-get upgrade -y
+clear
+
