@@ -1,0 +1,4 @@
+#!/data/data/com.termux/files/usr/bin/bash -e
+clear
+echo -e "\e[34m\e[1m razy started for installing"
+
