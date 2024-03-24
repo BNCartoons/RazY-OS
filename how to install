@@ -1,0 +1,1 @@
+cd .. && cd usr && cd bin && git clone https://github.com/BNCartoons/RazY-OS.git && cd RazY-OS && mv razy-setup /data/data/com.termux/files/usr/bin && cd .. && chmod +x razy-setup && cd
